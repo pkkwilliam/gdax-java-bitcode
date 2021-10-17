@@ -1,0 +1,1 @@
+mvn install:install-file -Dfile=./build/libs/coinbase-java-wrapper-0.11.0.jar -DgroupId=com.coinbase -DartifactId=exchange -Dversion=0.11.0 -Dpackaging=jar

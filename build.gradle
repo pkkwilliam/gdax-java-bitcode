@@ -7,6 +7,7 @@ buildscript {
     }
 }
 
+apply plugin: 'maven-publish'
 apply plugin: 'com.github.johnrengelman.shadow'
 
 wrapper {
@@ -34,6 +35,13 @@ allprojects {
     task integrationTest(type: Test) {
         include '**/*IntegrationTest*'
     }
+
+    task fatJar(type: Jar) {
+        classifier = 'all'
+        from { configurations.compile.collect { it.isDirectory() ? it : zipTree(it) } }
+        with jar
+    }
+
 }
 
 subprojects { }

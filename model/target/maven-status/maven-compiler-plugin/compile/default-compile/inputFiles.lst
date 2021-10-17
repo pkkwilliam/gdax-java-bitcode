@@ -1,0 +1,17 @@
+/Users/pkkwilliam/Documents/Playground/java/gdax-java/model/src/main/java/com/coinbase/exchange/model/NewOrderSingle.java
+/Users/pkkwilliam/Documents/Playground/java/gdax-java/model/src/main/java/com/coinbase/exchange/model/Currency.java
+/Users/pkkwilliam/Documents/Playground/java/gdax-java/model/src/main/java/com/coinbase/exchange/model/Fill.java
+/Users/pkkwilliam/Documents/Playground/java/gdax-java/model/src/main/java/com/coinbase/exchange/model/PaymentResponse.java
+/Users/pkkwilliam/Documents/Playground/java/gdax-java/model/src/main/java/com/coinbase/exchange/model/Candles.java
+/Users/pkkwilliam/Documents/Playground/java/gdax-java/model/src/main/java/com/coinbase/exchange/model/PaymentRequest.java
+/Users/pkkwilliam/Documents/Playground/java/gdax-java/model/src/main/java/com/coinbase/exchange/model/NewLimitOrderSingle.java
+/Users/pkkwilliam/Documents/Playground/java/gdax-java/model/src/main/java/com/coinbase/exchange/model/CoinbasePaymentRequest.java
+/Users/pkkwilliam/Documents/Playground/java/gdax-java/model/src/main/java/com/coinbase/exchange/model/CryptoPaymentRequest.java
+/Users/pkkwilliam/Documents/Playground/java/gdax-java/model/src/main/java/com/coinbase/exchange/model/Granularity.java
+/Users/pkkwilliam/Documents/Playground/java/gdax-java/model/src/main/java/com/coinbase/exchange/model/MonetaryRequest.java
+/Users/pkkwilliam/Documents/Playground/java/gdax-java/model/src/main/java/com/coinbase/exchange/model/ProductOrderBook.java
+/Users/pkkwilliam/Documents/Playground/java/gdax-java/model/src/main/java/com/coinbase/exchange/model/Product.java
+/Users/pkkwilliam/Documents/Playground/java/gdax-java/model/src/main/java/com/coinbase/exchange/model/Hold.java
+/Users/pkkwilliam/Documents/Playground/java/gdax-java/model/src/main/java/com/coinbase/exchange/model/NewMarketOrderSingle.java
+/Users/pkkwilliam/Documents/Playground/java/gdax-java/model/src/main/java/com/coinbase/exchange/model/Detail.java
+/Users/pkkwilliam/Documents/Playground/java/gdax-java/model/src/main/java/com/coinbase/exchange/model/Candle.java
